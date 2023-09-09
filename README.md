@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**2jin8/2jin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome&fontAlignY=40&desc=2jin8's%20GitHub%20Profile&descAlignY=53&descAlign=56&animation=fadeIn&fontColor=f7f5f5)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 📞 Contact 📞
+<a href="mailto:0208cr@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<br/><br/>
+
+
+### ⚒️ Tech Stack ⚒️
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+
+<br/><br/>
+
+### 💻 GitHub Stats 💻
+![2jin8's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jin8&show_icons=true)
+</div>
