@@ -5,13 +5,6 @@
 
 <br/>
 
-### 📞 Contact 📞
-<a href="mailto:0208cr@gmail.com">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<br/><br/>
-
-
 ### ⚒️ Tech Stack ⚒️
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
